@@ -17,7 +17,7 @@ Cuento con experiencia en la construcción de interfaces web funcionales y visua
 </div>
 
 <footer>
-<img width="100%" height="90px" src="https://www.shutterstock.com/image-vector/modern-luxurious-vector-graphic-transparence-260nw-2718109487.jpg"alt=""scrset="">
+<img width="100%" height="90px" src="https://i.postimg.cc/SNBgkB3s/aurora-boreal-en-islandia.webp"alt=""scrset="">
 </footer>
 
 
