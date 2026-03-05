@@ -10,7 +10,9 @@
 </div>
 
 <div>
-<p>Soy profesional en mercadeo y publicidad,programadora especializada en desarrollo fronted creativo en paginas web interactivas</p>
+<p>Soy Profesional en Mercadeo y Publicidad con enfoque en el entorno digital y tecnológico. Mi perfil integra estrategia de marca, análisis del consumidor y creatividad con conocimientos en programación y desarrollo Frontend.
+
+Cuento con experiencia en la construcción de interfaces web funcionales y visualmente atractivas, aplicando principios de diseño UI y experiencia de usuario (UX) para crear productos digitales centrados en las personas.</p>
 
 </div>
 
